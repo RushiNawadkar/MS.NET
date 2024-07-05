@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MS.NET\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114251EC-8537-487B-81A5-2CDFC814EA46}|Order\\Order.csproj|f:\\ms.net\\shop\\order\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114251EC-8537-487B-81A5-2CDFC814EA46}|Order\\Order.csproj|solutionrelative:order\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BAE8A9-8DDD-42C8-9777-6FF9DEB47E50}|MainShop\\MainShop.csproj|f:\\ms.net\\shop\\mainshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BAE8A9-8DDD-42C8-9777-6FF9DEB47E50}|MainShop\\MainShop.csproj|solutionrelative:mainshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACF910B-B058-4572-AEAC-42DA437AFBFC}|Customer\\Customer.csproj|f:\\ms.net\\shop\\customer\\cust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACF910B-B058-4572-AEAC-42DA437AFBFC}|Customer\\Customer.csproj|solutionrelative:customer\\cust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MS.NET\\Shop\\MainShop\\Program.cs",
+              "RelativeDocumentMoniker": "MainShop\\Program.cs",
+              "ToolTip": "F:\\MS.NET\\Shop\\MainShop\\Program.cs",
+              "RelativeToolTip": "MainShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:52:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "F:\\MS.NET\\Shop\\Order\\Orders.cs",
+              "RelativeDocumentMoniker": "Order\\Orders.cs",
+              "ToolTip": "F:\\MS.NET\\Shop\\Order\\Orders.cs",
+              "RelativeToolTip": "Order\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:47:38.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cust.cs",
+              "DocumentMoniker": "F:\\MS.NET\\Shop\\Customer\\Cust.cs",
+              "RelativeDocumentMoniker": "Customer\\Cust.cs",
+              "ToolTip": "F:\\MS.NET\\Shop\\Customer\\Cust.cs",
+              "RelativeToolTip": "Customer\\Cust.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:27:39.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

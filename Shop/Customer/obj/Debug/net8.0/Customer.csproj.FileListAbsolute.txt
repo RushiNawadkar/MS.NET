@@ -1,0 +1,11 @@
+F:\MS.NET\Shop\Customer\bin\Debug\net8.0\Customer.deps.json
+F:\MS.NET\Shop\Customer\bin\Debug\net8.0\Customer.dll
+F:\MS.NET\Shop\Customer\bin\Debug\net8.0\Customer.pdb
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\Customer.AssemblyInfoInputs.cache
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\Customer.AssemblyInfo.cs
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\Customer.csproj.CoreCompileInputs.cache
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\Customer.dll
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\refint\Customer.dll
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\Customer.pdb
+F:\MS.NET\Shop\Customer\obj\Debug\net8.0\ref\Customer.dll
