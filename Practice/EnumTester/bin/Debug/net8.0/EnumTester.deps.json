@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EnumTester/1.0.0": {
+        "dependencies": {
+          "EnumType": "1.0.0"
+        },
+        "runtime": {
+          "EnumTester.dll": {}
+        }
+      },
+      "EnumType/1.0.0": {
+        "runtime": {
+          "EnumType.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnumType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

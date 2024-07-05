@@ -1,0 +1,14 @@
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.AssemblyInfo.cs
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\AbstractMain\bin\Debug\net8.0\AbstractMain.exe
+F:\MS.NET\Practice\AbstractMain\bin\Debug\net8.0\AbstractMain.deps.json
+F:\MS.NET\Practice\AbstractMain\bin\Debug\net8.0\AbstractMain.runtimeconfig.json
+F:\MS.NET\Practice\AbstractMain\bin\Debug\net8.0\AbstractMain.dll
+F:\MS.NET\Practice\AbstractMain\bin\Debug\net8.0\AbstractMain.pdb
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.dll
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\refint\AbstractMain.dll
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.pdb
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\AbstractMain.genruntimeconfig.cache
+F:\MS.NET\Practice\AbstractMain\obj\Debug\net8.0\ref\AbstractMain.dll

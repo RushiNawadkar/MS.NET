@@ -1,0 +1,14 @@
+F:\MS.NET\Practice\LambadaExpression\bin\Debug\net8.0\LambadaExpression.exe
+F:\MS.NET\Practice\LambadaExpression\bin\Debug\net8.0\LambadaExpression.deps.json
+F:\MS.NET\Practice\LambadaExpression\bin\Debug\net8.0\LambadaExpression.runtimeconfig.json
+F:\MS.NET\Practice\LambadaExpression\bin\Debug\net8.0\LambadaExpression.dll
+F:\MS.NET\Practice\LambadaExpression\bin\Debug\net8.0\LambadaExpression.pdb
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.AssemblyInfo.cs
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.dll
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\refint\LambadaExpression.dll
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.pdb
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\LambadaExpression.genruntimeconfig.cache
+F:\MS.NET\Practice\LambadaExpression\obj\Debug\net8.0\ref\LambadaExpression.dll

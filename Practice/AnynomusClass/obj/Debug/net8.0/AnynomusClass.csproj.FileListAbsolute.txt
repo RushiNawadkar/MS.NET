@@ -1,0 +1,14 @@
+F:\MS.NET\Practice\AnynomusClass\bin\Debug\net8.0\AnynomusClass.exe
+F:\MS.NET\Practice\AnynomusClass\bin\Debug\net8.0\AnynomusClass.deps.json
+F:\MS.NET\Practice\AnynomusClass\bin\Debug\net8.0\AnynomusClass.runtimeconfig.json
+F:\MS.NET\Practice\AnynomusClass\bin\Debug\net8.0\AnynomusClass.dll
+F:\MS.NET\Practice\AnynomusClass\bin\Debug\net8.0\AnynomusClass.pdb
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.AssemblyInfo.cs
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.dll
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\refint\AnynomusClass.dll
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.pdb
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\AnynomusClass.genruntimeconfig.cache
+F:\MS.NET\Practice\AnynomusClass\obj\Debug\net8.0\ref\AnynomusClass.dll

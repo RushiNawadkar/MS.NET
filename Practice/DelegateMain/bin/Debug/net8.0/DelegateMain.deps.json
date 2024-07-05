@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DelegateMain/1.0.0": {
+        "dependencies": {
+          "Delegates": "1.0.0"
+        },
+        "runtime": {
+          "DelegateMain.dll": {}
+        }
+      },
+      "Delegates/1.0.0": {
+        "runtime": {
+          "Delegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

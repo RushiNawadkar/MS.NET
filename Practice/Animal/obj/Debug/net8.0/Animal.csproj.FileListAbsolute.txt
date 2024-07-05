@@ -1,0 +1,11 @@
+F:\MS.NET\Practice\Animal\bin\Debug\net8.0\Animal.deps.json
+F:\MS.NET\Practice\Animal\bin\Debug\net8.0\Animal.dll
+F:\MS.NET\Practice\Animal\bin\Debug\net8.0\Animal.pdb
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\Animal.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\Animal.AssemblyInfo.cs
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\Animal.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\Animal.dll
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\refint\Animal.dll
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\Animal.pdb
+F:\MS.NET\Practice\Animal\obj\Debug\net8.0\ref\Animal.dll

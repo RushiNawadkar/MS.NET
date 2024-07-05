@@ -1,0 +1,11 @@
+F:\MS.NET\Practice\Enum\bin\Debug\net8.0\EnumType.deps.json
+F:\MS.NET\Practice\Enum\bin\Debug\net8.0\EnumType.dll
+F:\MS.NET\Practice\Enum\bin\Debug\net8.0\EnumType.pdb
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\EnumType.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\EnumType.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\EnumType.AssemblyInfo.cs
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\EnumType.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\EnumType.dll
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\refint\EnumType.dll
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\EnumType.pdb
+F:\MS.NET\Practice\Enum\obj\Debug\net8.0\ref\EnumType.dll

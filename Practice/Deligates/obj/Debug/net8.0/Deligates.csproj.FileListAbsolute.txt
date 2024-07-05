@@ -1,0 +1,14 @@
+F:\MS.NET\Practice\Deligates\bin\Debug\net8.0\Deligates.exe
+F:\MS.NET\Practice\Deligates\bin\Debug\net8.0\Deligates.deps.json
+F:\MS.NET\Practice\Deligates\bin\Debug\net8.0\Deligates.runtimeconfig.json
+F:\MS.NET\Practice\Deligates\bin\Debug\net8.0\Deligates.dll
+F:\MS.NET\Practice\Deligates\bin\Debug\net8.0\Deligates.pdb
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.AssemblyInfo.cs
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.dll
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\refint\Deligates.dll
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.pdb
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\Deligates.genruntimeconfig.cache
+F:\MS.NET\Practice\Deligates\obj\Debug\net8.0\ref\Deligates.dll

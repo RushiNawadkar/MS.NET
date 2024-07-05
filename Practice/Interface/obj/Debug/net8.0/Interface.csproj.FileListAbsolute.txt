@@ -1,0 +1,14 @@
+F:\MS.NET\Practice\Interface\bin\Debug\net8.0\Interface.exe
+F:\MS.NET\Practice\Interface\bin\Debug\net8.0\Interface.deps.json
+F:\MS.NET\Practice\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+F:\MS.NET\Practice\Interface\bin\Debug\net8.0\Interface.dll
+F:\MS.NET\Practice\Interface\bin\Debug\net8.0\Interface.pdb
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.dll
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\refint\Interface.dll
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.pdb
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+F:\MS.NET\Practice\Interface\obj\Debug\net8.0\ref\Interface.dll

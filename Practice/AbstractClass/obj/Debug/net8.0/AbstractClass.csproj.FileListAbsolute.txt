@@ -1,0 +1,11 @@
+F:\MS.NET\Practice\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+F:\MS.NET\Practice\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+F:\MS.NET\Practice\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+F:\MS.NET\Practice\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll

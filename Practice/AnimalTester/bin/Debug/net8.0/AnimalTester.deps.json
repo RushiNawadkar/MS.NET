@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AnimalTester/1.0.0": {
+        "dependencies": {
+          "Animal": "1.0.0",
+          "Dog": "1.0.0"
+        },
+        "runtime": {
+          "AnimalTester.dll": {}
+        }
+      },
+      "Animal/1.0.0": {
+        "runtime": {
+          "Animal.dll": {}
+        }
+      },
+      "Dog/1.0.0": {
+        "dependencies": {
+          "Animal": "1.0.0"
+        },
+        "runtime": {
+          "Dog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

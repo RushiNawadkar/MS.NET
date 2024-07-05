@@ -1,0 +1,15 @@
+F:\MS.NET\Practice\Dog\bin\Debug\net8.0\Dog.deps.json
+F:\MS.NET\Practice\Dog\bin\Debug\net8.0\Dog.dll
+F:\MS.NET\Practice\Dog\bin\Debug\net8.0\Dog.pdb
+F:\MS.NET\Practice\Dog\bin\Debug\net8.0\Animal.dll
+F:\MS.NET\Practice\Dog\bin\Debug\net8.0\Animal.pdb
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.csproj.AssemblyReference.cache
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.AssemblyInfo.cs
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.csproj.Up2Date
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.dll
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\refint\Dog.dll
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\Dog.pdb
+F:\MS.NET\Practice\Dog\obj\Debug\net8.0\ref\Dog.dll

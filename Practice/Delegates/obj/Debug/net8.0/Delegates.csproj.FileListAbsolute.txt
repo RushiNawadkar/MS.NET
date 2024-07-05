@@ -1,0 +1,11 @@
+F:\MS.NET\Practice\Delegates\bin\Debug\net8.0\Delegates.deps.json
+F:\MS.NET\Practice\Delegates\bin\Debug\net8.0\Delegates.dll
+F:\MS.NET\Practice\Delegates\bin\Debug\net8.0\Delegates.pdb
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\Delegates.dll
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\refint\Delegates.dll
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\Delegates.pdb
+F:\MS.NET\Practice\Delegates\obj\Debug\net8.0\ref\Delegates.dll

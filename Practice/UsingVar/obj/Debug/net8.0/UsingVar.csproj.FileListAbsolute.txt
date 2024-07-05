@@ -1,0 +1,14 @@
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfoInputs.cache
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfo.cs
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.csproj.CoreCompileInputs.cache
+F:\MS.NET\Practice\UsingVar\bin\Debug\net8.0\UsingVar.exe
+F:\MS.NET\Practice\UsingVar\bin\Debug\net8.0\UsingVar.deps.json
+F:\MS.NET\Practice\UsingVar\bin\Debug\net8.0\UsingVar.runtimeconfig.json
+F:\MS.NET\Practice\UsingVar\bin\Debug\net8.0\UsingVar.dll
+F:\MS.NET\Practice\UsingVar\bin\Debug\net8.0\UsingVar.pdb
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.dll
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\refint\UsingVar.dll
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.pdb
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\UsingVar.genruntimeconfig.cache
+F:\MS.NET\Practice\UsingVar\obj\Debug\net8.0\ref\UsingVar.dll
