@@ -1,0 +1,53 @@
+﻿@model IEnumerable<StudentWebApp.Models.Students>;
+
+ <h3>Show All Students</h3>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Student Id</th>
+                <th>Student Name</th>
+                <th>Student Email</th>
+                <th>Student Address</th>
+                <th>Student Mobile_No</th>
+                <th>Student Admission Date</th>
+                <th>Student Fees</th>
+                <th>Student Status</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var Student in Model)
+            {
+                <tr>
+                    <td>@Student.studId</td>
+                    <td>@Student.Name</td>
+                    <td>@Student.email</td>
+                    <td>@Student.address</td>
+                    <td>@Student.MobNo</td>
+                    <td>@Student.AdmissionDate</td>
+                    <td>@Student.fees</td>
+                    <td>@Student.status</td>
+                    <td>
+                        <a href="/Students/Delete?id=@Student.studId"  class="btn btn-danger">Delete</a>
+                     </td>
+                    <td>
+                        <a href="/Students/Update" class="btn btn-warning">Update</a>
+                    </td>
+
+    
+
+
+
+                </tr>
+               
+            }
+           
+           
+
+
+
+        </tbody>
+    </table>
+</div>
